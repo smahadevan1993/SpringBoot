@@ -1,0 +1,3 @@
+com\microservice\Micro\MicroApplication.class
+com\microservice\controller\Hello.class
+com\microservice\objects\Helloobjects.class
